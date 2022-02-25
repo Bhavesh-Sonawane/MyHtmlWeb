@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="About.html" />
     <Content Include="Contact.html" />
+    <Content Include="FileOne.txt" />
+    <Content Include="FileTwo.txt" />
     <Content Include="Images\Screenshot %281%29.png" />
     <Content Include="Index.html" />
     <Content Include="OurStyle.css" />
